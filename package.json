@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-memory",
+  "version": "0.0.1",
+  "description": "check memory ram android",
+  "cordova": {
+    "id": "cordova-plugin-memory",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "tomy",
+  "license": "ISC"
+}
