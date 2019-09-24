@@ -1,5 +1,5 @@
 # description 
-this plugin is for checking information RAM memory from your device 
+this plugin is codrova plugin for checking information RAM memory from your device 
 
 ## support
 *android
@@ -11,13 +11,12 @@ run command:
 declare variable :
 `declare var memory: any;`
 
-and how to get the data information :
-
-`memory.getMemoryInfo('data',(response) => {
-       console.log('reponse', response)
-     }, (err) => {
-       console.log('error', err)
-     });`
+and how to get the data information : <br/>
+`memory.getMemoryInfo('data',(response) => {`<br/>
+       `console.log('reponse', response)`<br/>
+     `}, (err) => {`<br/>
+       `console.log('error', err)`<br/>
+     `});`
 
 
 thankyou :)
